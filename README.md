@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Yashu! I’m an engineering student exploring the world of web development and enjoying the process of learning HTML, CSS, and JavaScript. I love building little projects that help me grow and keep my curiosity alive. Hackathons and teamwork excite me because they let me share ideas and learn new things.
+# HI  I’m Yashu!!
+ I’m an engineering student exploring the world of web development and enjoying the process of learning HTML, CSS, and JavaScript. I love building little projects that help me grow and keep my curiosity alive. Hackathons and teamwork excite me because they let me share ideas and learn new things.
 
 
 # 💻 Tech Stack:
